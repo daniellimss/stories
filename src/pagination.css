@@ -1,0 +1,6 @@
+.pagination button.active {
+  background-color: #4caf50;
+  color: black;
+  font-weight: 900;
+  border-color: #101010;
+}
